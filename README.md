@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amier Modarresi (@amier-Modarresi)
+# 👋 Hi, I'm Amir Modarresi (@amir-Modarresi)
 
 ## 👀 About Me
 I'm a passionate front-end developer with a growing interest in the world of IoT (Internet of Things). I love building interactive, user-friendly web applications and exploring how technology can connect the physical and digital worlds.
